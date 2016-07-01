@@ -1,0 +1,8 @@
+---
+title: "Untitled"
+author: "FNU Anirudh and Prudhvi Raj Indana"
+date: "December 11, 2015"
+output: html_document
+---
+
+![First Blood](C:\Users\lenovo\Pictures\First_Submission.PNG)
